@@ -1,0 +1,151 @@
+ /* Set body margin and background color */ */
+ body {
+  margin: 0;
+  background-color: #e52626;
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+/* Style header */
+ header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #ad6262;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: #000000;
+  
+}
+#heading{
+  color: rgb(251, 251, 251);
+}
+#genre{
+  color: white;
+}
+/* Style h1 */
+h1 {
+  margin: 0;
+  font-size: 36px;
+  font-weight: bold;
+  color: #000000;
+}
+
+/* Style search form container */
+.search-form-container {
+  display: flex;
+  align-items: center;
+}
+#headingname{
+  display: flex;
+  list-style: none;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  margin-left: -43%;
+  margin-top: -77px;
+}
+#genremar{
+  margin-right: 55px;
+}
+#yearmar{
+  margin-left: 41px;
+  font-size: 30px;
+  margin-top: 40px;
+}
+/* Style search input */
+#searchInput {
+  
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 50px;
+  margin-top: 49px;
+  background-color: rgb(255, 255, 255);
+}
+
+/* Style search button */
+#searchBtn {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+  background-color: #aa42f4;
+  box-shadow: 3px 5px 8px 5px #dc72f9;;
+  color: #ffffff;
+  cursor: pointer;
+  width: 150px;
+  border: 2px solid black;
+}
+#realeasyear{
+  margin-left: 50px;
+  
+}
+/* Style select elements */
+select {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 10px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Style section headings */
+h2 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #000000;
+}
+
+/* Style search results heading */
+.search-results-heading {
+  margin-bottom: 20px;
+}
+
+/* Style list container */
+.list-container {
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Style recipe list */
+#recipe-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: #0b0b0b;
+}
+
+/* Style recipe list items */
+#recipe-list li {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #b5b5b5;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+/* Style recipe list items on hover */
+#recipe-list li:hover {
+  background-color: #dcdcdc;
+}
+
+/* Style recipe details container */
+ #recipeDetailsContainer {
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+} 
+img {
+
+  height: 200px;;
+  width: 270;
+} 
+#fontsize{
+  font-size: 30px;
+}
+

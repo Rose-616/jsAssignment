@@ -1,0 +1,91 @@
+[
+    {
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "releaseDate": "1994",
+    "image": "./background.jpg",
+
+    "rating":2
+
+
+ 
+    },
+    {
+    "title": "The Godfather",
+    "genre": "Drama",
+    "releaseDate": "1972",
+    "image": "./new img.jpg",
+    "rating": 5
+  
+
+    },
+    {
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "releaseDate": "2008",
+    "image": "./background.jpg",
+
+    "rating": 3
+   
+
+    },
+    {
+        "title": "Phir Hera Phery",
+        "genre": "comedy",
+        "releaseDate": "2006",
+        "image": "./image data/babo.jpg",
+    
+        "rating": 3
+       
+    
+        },
+    {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "Fantasy",
+    "releaseDate": "2001",
+    "image": "./image data/the load.jpg",
+    "rating": 4
+    },
+    {
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "releaseDate": "1994",
+    "image": "./image data/pulfi puket.jpg",
+    "rating": 5
+    },
+    {
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "releaseDate": "1994",
+    "image": "./image data/forest gump.jpg",
+    "rating": 2
+    },
+    {
+    "title": "Inception",
+    "genre": "Science Fiction",
+    "releaseDate": "2010",
+    "image": "./image data/inception.jpg",
+    "rating": 4
+    },
+    {
+    "title": "The Silence of the Lambs",
+    "genre": "Horror",
+    "releaseDate": "1991",
+    "image": "./image data/silence of lamb.jpg",
+    "rating": 3
+    },
+    {
+    "title": "Jurassic Park",
+    "genre": "Adventure",
+    "releaseDate": "1993",
+    "image": "./image data/jurrasic park.jpg",
+    "rating": 2
+    },
+    {
+    "title": "The Matrix",
+    "genre": "Science Fiction",
+    "releaseDate": "1999",
+    "image": "./image data/the matrix.jpg",
+    "rating": 4
+    }
+    ]
